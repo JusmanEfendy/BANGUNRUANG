@@ -47,3 +47,25 @@ VSCODE
 ![limas3](https://user-images.githubusercontent.com/92988781/140031398-4f528de7-dda3-4176-b53b-176ec81676ca.png)
 
 ![limas4](https://user-images.githubusercontent.com/92988781/140031455-69c36b83-6959-4e77-a09a-8623c7a546bd.png)
+
+
+- PRISMA SEGITIGA
+
+FLOWGORITHM
+
+![prisma1](https://user-images.githubusercontent.com/92988781/140040055-120fc1f8-820e-4a24-9168-874193b12223.png)
+
+![prisma2](https://user-images.githubusercontent.com/92988781/140040112-38291ec0-541c-4629-b9f2-c7fa431e5ae6.png)
+
+
+VSCODE
+
+![prisma3](https://user-images.githubusercontent.com/92988781/140040253-7b0b9406-5512-47bb-9981-ae4e7d36af7c.png)
+
+![prisma4](https://user-images.githubusercontent.com/92988781/140040308-cbc79e8f-cb4f-4a72-8801-8ef5589d38b3.png)
+
+
+- LIMAS SEGITIGA
+
+FLOWGORITHM
+
