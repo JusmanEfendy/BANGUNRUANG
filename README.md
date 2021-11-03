@@ -69,3 +69,23 @@ VSCODE
 
 FLOWGORITHM
 
+![limassegitiga1](https://user-images.githubusercontent.com/92988781/140043682-31af30ea-ffd0-41cb-8bac-0c82bbbf4359.png)
+
+![limassegitiga2](https://user-images.githubusercontent.com/92988781/140043736-9b27774f-f5e2-4def-b2b4-f3e3446462d4.png)
+
+
+VSCODE
+
+![limassegitiga3](https://user-images.githubusercontent.com/92988781/140043809-3c6967e2-dfbb-449c-89bc-54dab4a9d7bc.png)
+
+![limassegitiga4](https://user-images.githubusercontent.com/92988781/140043843-671e8a39-b9dd-4dc6-8d42-2fe285de10dd.png)
+
+
+- TABUNG
+
+FLOWGORITHM
+
+
+
+
+
