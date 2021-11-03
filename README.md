@@ -85,7 +85,20 @@ VSCODE
 
 FLOWGORITHM
 
+![tabung11](https://user-images.githubusercontent.com/92988781/140048417-b97d16bb-37e7-461e-92e7-f73ec89002f3.png)
+
+![tabung2](https://user-images.githubusercontent.com/92988781/140048460-4adeb613-8388-46b5-8188-f14a16c3d283.png)
 
 
+VSCODE
+
+![tabung3](https://user-images.githubusercontent.com/92988781/140048527-9fe4d8a4-5447-4476-b5a0-3fd32c02fd58.png)
+
+![tabung4](https://user-images.githubusercontent.com/92988781/140048577-dcfe8295-47bc-46b6-8350-3744ff8c52ad.png)
+
+
+- KERUCUT
+
+FLOWGORITHM
 
 
