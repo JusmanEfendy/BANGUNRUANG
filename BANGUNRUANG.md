@@ -117,6 +117,16 @@ VSCODE
 
 FLOWGORITHM
 
+![bola1](https://user-images.githubusercontent.com/92988781/140053547-e48b14e0-6b1e-4ca6-8633-1eb835b76c93.png)
+
+![bola2](https://user-images.githubusercontent.com/92988781/140053573-398d874e-3290-40dd-8954-b1ccea8f995a.png)
 
 
+VSCODE
 
+![bola3](https://user-images.githubusercontent.com/92988781/140053845-1e9693d7-d16c-4ed0-a3a1-98e28b4d5022.png)
+
+![bola4](https://user-images.githubusercontent.com/92988781/140053894-facf5f35-f2e1-40b0-97cd-5dd26d24262b.png)
+
+
+- SELESAI
