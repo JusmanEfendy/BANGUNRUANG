@@ -101,4 +101,22 @@ VSCODE
 
 FLOWGORITHM
 
+![kerucut1](https://user-images.githubusercontent.com/92988781/140051802-ab2828f7-05c7-47b8-bcf3-31f968dd0a6e.png)
+
+![kerucut2](https://user-images.githubusercontent.com/92988781/140051890-e76f9843-68f2-4be8-a354-6946cce598cb.png)
+
+
+VSCODE
+
+![kerucut3](https://user-images.githubusercontent.com/92988781/140051977-aa065692-29d3-4b53-9f35-2b6a620b068f.png)
+
+![kerucut4](https://user-images.githubusercontent.com/92988781/140052097-8ad944df-9ad7-4e33-9140-24bc268fc595.png)
+
+
+- BOLA
+
+FLOWGORITHM
+
+
+
 
